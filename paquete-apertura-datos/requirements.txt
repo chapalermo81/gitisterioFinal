@@ -1,0 +1,6 @@
+mkdocs-datosgobar
+markdown
+pdfkit
+requests
+pandas
+openpyxl
